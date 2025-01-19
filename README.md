@@ -6,5 +6,4 @@ A improved version of NeuroTIS, which is developed for translation initiation si
 corresponding author: Zhiwei Ye
 e-mail:hgcsyzw@hbut.edu.cn
 
-References
-https://github.com/philipperemy/keras-tcn.
+kmer+TCN is implemented basd on https://github.com/philipperemy/keras-tcn, Thanks!
