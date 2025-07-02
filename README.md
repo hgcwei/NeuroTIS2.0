@@ -14,6 +14,7 @@ numpy 1.19.2
 keras 2.3.0
 keras-tcn 3.5.0
 biopython 1.78
+tensorflow 1.13.1
 
 3. .fasta input
     Please input a fa file.
