@@ -13,15 +13,12 @@ python 3.6.13
 numpy 1.19.2
 keras 2.3.0
 keras 3.5.0
-          
 
 3. .fasta input
-    please input a fa file.
-
+    Please input a fa file.
 
 5. Feature Generation
-   Generate tfrecord (features) by running main.py in 
+   Generate tfrecord (features) by running main.py in NeuroTIS2.0/NeuroTIS2.0-adaptive grouping (.tfrecord)
 
 6. TIS Prediction
-
-   Predict TIS by running tisTest.py in folder NeuroTIS2.0 frame-specific CNN
+   Predict TIS by running tisTest.py in NeuroTIS2.0/NeuroTIS2.0 frame-specific CNN
