@@ -12,7 +12,7 @@ kmer+TCN is implemented based on https://github.com/philipperemy/keras-tcn, Than
 python 3.6.13
 numpy 1.19.2
 keras 2.3.0
-keras 3.5.0
+keras-tcn 3.5.0
 
 3. .fasta input
     Please input a fa file.
