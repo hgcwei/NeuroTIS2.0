@@ -13,6 +13,7 @@ python 3.6.13
 numpy 1.19.2
 keras 2.3.0
 keras-tcn 3.5.0
+biopython 1.78
 
 3. .fasta input
     Please input a fa file.
