@@ -20,8 +20,8 @@ keras 3.5.0
 
 
 5. Feature Generation
-   generate tfrecord by running main.py in 
+   Generate tfrecord (features) by running main.py in 
 
 6. TIS Prediction
 
-   predict TIS by running tisTest.py in 
+   Predict TIS by running tisTest.py in folder NeuroTIS2.0 frame-specific CNN
